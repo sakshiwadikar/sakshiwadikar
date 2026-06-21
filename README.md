@@ -119,7 +119,7 @@
 | 2 | Expense Tracker | Full-stack expense management application built with React, Node.js, Express, and MongoDB. Features income/expense tracking, dashboard analytics, authentication, and Excel export. | https://github.com/sakshiwadikar/Expense-Tracker |
 | 3 | EduGames App | Gamified learning platform designed for rural students with offline support, quizzes, AI-powered doubt assistance, teacher dashboard, and learner performance tracking. | https://edutainment-edtnmt7.web.app/ |
 | 4 | LocalConnect | Smart local service marketplace powered by analytics, helping users discover trusted services and providers understand demand trends. | https://localconnect-f077b.web.app/ |
-| 5 | Yukti AI | AI-powered assistant integrating chat, image generation, brainstorming, coding assistance, and productivity tools using modern AI APIs. | https://github.com/sakshiwadikar/Yukti-AI |
+| 5 | Yukti AI | AI-powered assistant integrating chat, image generation, brainstorming, coding assistance, and productivity tools using modern AI APIs. | https://yukti-ai-123.web.app |
 
 ###
 
