@@ -115,7 +115,7 @@
 
 | Sr. No. | Project Name | Description | Link |
 |----------|-------------|-------------|------|
-| 1 | NutriTrack | Calorie tracking mobile app and responsive website that helps users monitor daily food intake, set nutrition goals, and visualize progress through charts and analytics. | https://github.com/sakshiwadikar/calorie-tracker |
+| 1 | VahanAI | VahanAI is an AI-powered offline vehicle diagnostic platform that provides voice-based fault detection, repair guidance, engine sound analysis, and fleet health monitoring. | https://vahan-ai.web.app/ |
 | 2 | Expense Tracker | Full-stack expense management application built with React, Node.js, Express, and MongoDB. Features income/expense tracking, dashboard analytics, authentication, and Excel export. | https://expensy123.web.app/ |
 | 3 | EduGames App | Gamified learning platform designed for rural students with offline support, quizzes, AI-powered doubt assistance, teacher dashboard, and learner performance tracking. | https://edutainment-edtnmt7.web.app/ |
 | 4 | LocalConnect | Smart local service marketplace powered by analytics, helping users discover trusted services and providers understand demand trends. | https://localconnect-f077b.web.app/ |
