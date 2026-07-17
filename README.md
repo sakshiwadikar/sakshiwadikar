@@ -6,7 +6,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="130" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3BwaXd4bXMzN3I5Y2Jja3h3Znlncm5nbWF6NjFzbTF1eGlxZ2JzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ifyR72mrOUJAk/giphy.gif"  />
+<img data-importer="image" align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3BwaXd4bXMzN3I5Y2Jja3h3Znlncm5nbWF6NjFzbTF1eGlxZ2JzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ifyR72mrOUJAk/giphy.gif"  />
 <br>
 
 ###
@@ -24,7 +24,9 @@
   </a>
 </div>
 
+
 ###
+
 
 
 <h2 data-importer="text" align="left">💻Tech Stack:</h2>
