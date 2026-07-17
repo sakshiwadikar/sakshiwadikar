@@ -1,3 +1,71 @@
+<h1 data-importer="text" align="center">Hey there, Sakshi here👋</h1>
+
+###
+
+<h2 data-importer="text" align="left">👩🏻‍💻 About Me 👩🏻‍🎨</h2>
+
+###
+
+<img data-importer="image" align="right" height="130" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3BwaXd4bXMzN3I5Y2Jja3h3Znlncm5nbWF6NjFzbTF1eGlxZ2JzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ifyR72mrOUJAk/giphy.gif"  />
+
+###
+
+<p data-importer="text" align="left">UI/UX designer🎯 | Full-stack developer 💻 ~~Turning ideas into interactive experiences~~</p>
+
+###
+
+<div data-importer="socials" align="left">
+  <a href="https://mail.google.com/mail/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="20" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/sakshi-wadikar-69144231a/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="20" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+
+<h2 data-importer="text" align="left">💻Tech Stack:</h2>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+</div>
+
+###
+
+<!-- <div data-importer="stats" align="left">
+  <img src="https://raw.githubusercontent.com/sakshiwadikar/sakshiwadikar/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+### -->
+
 <!-- <h1 align="center">Hey there,Sakshi here👋</h1>
 
 ###
@@ -60,7 +128,7 @@
 </div>
 
 ### -->
-<h1 align="center">Hey there,Sakshi here👋</h1>
+<!-- <h1 align="center">Hey there,Sakshi here👋</h1>
 
 ###
 
@@ -109,7 +177,7 @@
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
-</div>
+</div> -->
 
 ## 🚀 Projects
 
